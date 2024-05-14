@@ -43,7 +43,7 @@ vollog = logging.getLogger(__name__)
 colorama.init()
 
 
-class Alpined(interfaces.plugins.PluginInterface):
+class Allfind(interfaces.plugins.PluginInterface):
     """memory abnormal detect plugin
 
     - get_requirements :
